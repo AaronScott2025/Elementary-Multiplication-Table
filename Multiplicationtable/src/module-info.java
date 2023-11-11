@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author aaron
+ *
+ */
+module Multiplicationtable {
+}
